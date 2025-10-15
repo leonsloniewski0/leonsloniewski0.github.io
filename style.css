@@ -1,14 +1,14 @@
-body{
+body{max-width: 800px;
 
-background-color:black;
+background-color:rgb(182, 175, 175);
 
 }
 
 p
 
 {
-     color: grey;
-     font-size: 12pt;
+     color: rgb(104, 104, 104);
+     font-size: 17pt;
      font-family: "Parkinsans", sans-serif;
 
 }
